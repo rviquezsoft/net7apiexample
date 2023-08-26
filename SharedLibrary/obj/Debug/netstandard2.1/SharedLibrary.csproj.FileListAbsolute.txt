@@ -1,0 +1,10 @@
+/Users/richardviquez/Projects/API/SharedLibrary/bin/Debug/netstandard2.1/SharedLibrary.deps.json
+/Users/richardviquez/Projects/API/SharedLibrary/bin/Debug/netstandard2.1/SharedLibrary.dll
+/Users/richardviquez/Projects/API/SharedLibrary/bin/Debug/netstandard2.1/SharedLibrary.pdb
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.csproj.AssemblyReference.cache
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.AssemblyInfoInputs.cache
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.AssemblyInfo.cs
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.dll
+/Users/richardviquez/Projects/API/SharedLibrary/obj/Debug/netstandard2.1/SharedLibrary.pdb
